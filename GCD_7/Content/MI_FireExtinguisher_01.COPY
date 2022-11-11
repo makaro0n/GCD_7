@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_FireExtinguisher_01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=05368D4F464B3940AA49F89840969FCE
+   Parent=Material'"/Game/StorageHouse/Materials/M_MasterProps.M_MasterProps"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="AlbedoTexture"),ParameterValue=Texture2D'"/Game/StorageHouse/Textures/T_FireExtinguisher_D.T_FireExtinguisher_D"',ExpressionGUID=E65907244402E5D3465C3D849C66B34B)
+   TextureParameterValues(1)=(ParameterInfo=(Name="MergeMapInput"),ParameterValue=Texture2D'"/Game/StorageHouse/Textures/T_FireExtinguisher_ORM.T_FireExtinguisher_ORM"',ExpressionGUID=888E7724483C94152823098A870BD045)
+   TextureParameterValues(2)=(ParameterInfo=(Name="MainNormalInput"),ParameterValue=Texture2D'"/Game/StorageHouse/Textures/T_FireExtinguisher_N.T_FireExtinguisher_N"',ExpressionGUID=657632254688979EC8DBE6A070E85692)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=9FCA9D6E474DB92444DC90B9785AAE01
+   ReferencedTextureGuids(1)=DDE80CBB405A4DBA1CD8AABE3717DEB3
+   ReferencedTextureGuids(2)=CB4EDD9A4E10E5FD1322DE85310C033B
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=9A586EAE4DB851510266B088CE8AF45F
+End Object
