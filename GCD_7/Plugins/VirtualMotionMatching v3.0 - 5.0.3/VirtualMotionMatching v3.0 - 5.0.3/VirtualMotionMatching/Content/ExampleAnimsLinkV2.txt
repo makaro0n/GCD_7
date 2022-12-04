@@ -1,0 +1,18 @@
+﻿https://drive.google.com/file/d/1Mx2QMEXCFjKtNTLtu_5FUMHhUfs6MoOr/view?usp=sharing
+
+Put it under the Animations directory.
+VirtualMotionMatching\Content\Example\Mannequin\Animations
+VirtualMotionMatching\Content\Example\Mannequin\Animations\Unarm
+VirtualMotionMatching\Content\Example\Mannequin\Animations\Zombie
+
+Documentation：
+https://drive.google.com/file/d/1gm7JwILd0oYxyWCTIt9rfyuoS8XoBZVn/view?usp=sharing
+
+中文文档：
+https://drive.google.com/file/d/1UpU6zE8Pzqz367qg1_vLvGbhCCJvY2is/view?usp=sharing
+
+Video Tutorial-p1
+https://youtu.be/Tg6XoHBFwd0
+
+Video Tutorial-p2
+https://www.youtube.com/watch?v=Hs6xJpsjkso

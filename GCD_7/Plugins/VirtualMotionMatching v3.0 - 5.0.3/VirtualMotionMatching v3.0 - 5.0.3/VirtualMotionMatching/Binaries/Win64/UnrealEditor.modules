@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"VirtualMotionMatching": "UnrealEditor-VirtualMotionMatching.dll",
+		"VirtualMotionMatchingEditor": "UnrealEditor-VirtualMotionMatchingEditor.dll"
+	}
+}
